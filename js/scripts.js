@@ -1,5 +1,4 @@
 (function() {
-	var message = "Witaj świecie";
+	var message = "Witaj świecie!";
 	alert(message);
-	
 })();
