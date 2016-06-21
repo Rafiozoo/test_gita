@@ -1,2 +1,1 @@
-Przeczytaj tego koniecznie!
-Czad :)
+Przeczytaj to koniecznie!
